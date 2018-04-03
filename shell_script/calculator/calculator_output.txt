@@ -1,0 +1,41 @@
+Enter the first no:
+56
+Enter the second no:
+8
+Enter your choice
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+1
+result 64
+Do you want to continue?(y/n)
+y
+Enter your choice
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+2
+result 48
+Do you want to continue?(y/n)
+y
+Enter your choice
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+3
+result 448
+Do you want to continue?(y/n)
+y
+Enter your choice
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+4
+result 7
+Do you want to continue?(y/n)
+n
+

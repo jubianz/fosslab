@@ -1,0 +1,7 @@
+Currently logged and  logname: serene 
+Current shell: /bin/bash 
+Home directory: /home/serene 
+Operating System type : x86_64 
+Current path setting: /home/serene/bin:/home/serene/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin 
+Current working directory: /home/serene/fosslab1/shell_scripting 
+Currently logged no: of users: serene serene 
